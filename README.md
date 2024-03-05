@@ -6,7 +6,9 @@ song currently playing in the Music app.
 
 ## Requirements
 
-[nowplaying-cli](https://github.com/kirtan-shah/nowplaying-cli)
+- [Actions](https://apps.apple.com/app/id1586435171) for Shortcuts
+
+- [nowplaying-cli](https://github.com/kirtan-shah/nowplaying-cli)
 
 ```bash
 brew install nowplaying-cli
