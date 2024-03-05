@@ -16,16 +16,21 @@ brew install nowplaying-cli
 
 ## Installation
 
-- Add `Change 10-Band EQ.shortcut` to the Shortcuts App
-- Copy the `EQ-Settings.json` to a location on your hard drive
-e.g. the iCloud Shortcuts folder
-- Open the Shortcuts App and select the file location
+1. Copy the `EQ-Settings.json` file to your computer,
+e.g., to the iCloud Shortcuts folder.
+2. Double-click the `Change 10-Band EQ.shortcut` file
+to add it to the Shortcuts app.
+3. Select the `EQ-Settings.json` file when asked for it.
+4. Open the Shortcuts app and run it manually, once while playing music.
+5. When prompted, select `Always allow` in every dialog.
 
 ## Usage
 
-Either run the shortcut manually or bind it to a keyboard shortcut.
+The shortcut is added to the `Services Menu`, you can either run it manually
+or bind it to a keyboard shortcut.
+
 You can also us an app like [Shortery](https://apps.apple.com/app/id1594183810)
-to automate the execution of the shortcut. E.g. whenever the Music App is in focus
+to automate the execution of the shortcut. E.g. whenever the Music app is in focus
 execute the shortcut.
 
 ## Additional information
