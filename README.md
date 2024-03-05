@@ -29,7 +29,7 @@ to add it to the Shortcuts app.
 The shortcut is added to the `Services Menu`, you can either run it manually
 or bind it to a keyboard shortcut.
 
-You can also us an app like [Shortery](https://apps.apple.com/app/id1594183810)
+You can also use an app like [Shortery](https://apps.apple.com/app/id1594183810)
 to automate the execution of the shortcut. E.g. whenever the Music app is in focus
 execute the shortcut.
 
